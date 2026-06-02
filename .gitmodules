@@ -1,0 +1,6 @@
+[submodule "poncatime.interface"]
+	path = poncatime.interface
+	url = https://github.com/tdhock/poncatime.interface
+[submodule "ponca"]
+	path = ponca
+	url = https://github.com/poncateam/ponca.git
